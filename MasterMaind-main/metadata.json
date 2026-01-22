@@ -1,0 +1,5 @@
+{
+  "name": "Master mind",
+  "description": "A minimalist, modern Mastermind game with a dark aesthetic, featuring a responsive UI and real-time feedback logic.",
+  "requestFramePermissions": []
+}
